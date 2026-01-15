@@ -21,6 +21,21 @@ def div(a: int | float, b: int | float) -> float:
 
     return a / b
 
+def multiply(a: float, b: float) -> float:
+    """
+    Multiply two numbers and return the result.
+
+    Args:
+        a (float): First number
+        b (float): Second number
+
+    Returns:
+        float: Product of a and b
+
+    Author: Amritanshu Aditya 23BCS013
+    """
+    return a * b
+
 def sub(a: int | float, b: int | float) -> float:
     """
     Subtract two numbers and return the result.
