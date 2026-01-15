@@ -11,4 +11,4 @@ Created in python using uv package manager.
 
 # Contributing
 
-Refer to [CONTRIBUTING.md](./CONTRIBUTING.mg).
+Refer to [CONTRIBUTING.md](./CONTRIBUTING.md).
